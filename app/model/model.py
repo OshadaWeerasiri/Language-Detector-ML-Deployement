@@ -12,6 +12,7 @@ with open(f"{BASE_DIR}/trained_model-{__version__}.pkl", "rb") as f:
 
 
 classes = [
+    "Sinhala",
     "Arabic",
     "Danish",
     "Dutch",
